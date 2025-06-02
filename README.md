@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 Run the training script:
 ```bash
-python iris_classifier.py
+python FlowerClassifier.py
 ```
 
 The script will:
